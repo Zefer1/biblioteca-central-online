@@ -18,13 +18,13 @@ A comprehensive library management system built with modern web technologies, pr
 ##  Local Development
 
 ### Frontend
-cd Desafio05-Front
-npm install
-npm run dev
+- cd Desafio05-Front
+- npm install
+- npm run dev
 
 ##  Backend
 
-cd desafio05-api
-npm install  
-npm run dev
+- cd desafio05-api
+- npm install  
+- npm run dev
 
